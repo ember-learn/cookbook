@@ -1,0 +1,24 @@
+- title: 'Introduction'
+  url: 'index'
+  pages:
+    - title: "The Ember Cookbook"
+      url: ""
+
+# - title: 'Basic use'
+#   url: 'basic-use'
+#   pages:
+#     - title: 'Installing'
+#       url: 'index'
+#     - title: 'CLI commands'
+#       url: 'cli-commands'
+#     - title: 'Folder layout'
+#       url: 'folder-layout'
+#     - title: 'Using addons'
+#       url: 'using-addons'
+#     - title: 'Assets and dependencies'
+#       url: 'assets-and-dependencies'
+#     - title: 'Deploying an Ember app'
+#       url: 'deploying'
+#     - title: 'Upgrading'
+#       url: 'upgrading'
+
