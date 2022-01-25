@@ -3,6 +3,13 @@
   pages:
     - title: "The Ember Cookbook"
       url: ""
+- title: 'Forms'
+  url: 'forms'
+  pages: 
+     - title: 'Inputs'
+       url: 'inputs'
+     - title: 'Template'
+       url: 'template'
 
 # - title: 'Basic use'
 #   url: 'basic-use'
