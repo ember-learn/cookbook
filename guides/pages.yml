@@ -1,8 +1,21 @@
 - title: 'Introduction'
   url: 'index'
   pages:
-    - title: "The Ember Cookbook"
-      url: ""
+    - title: 'The Ember Cookbook'
+      url: ''
+      
+- title: 'The Ember Cookbook'
+  url: 'cookbook'
+  pages:
+    - title: 'Introduction'
+      url: 'index'
+
+    - title: 'Contributing'
+      url: 'contributing'
+      pages:
+        - title: 'Understanding the Cookbook Format'
+          url: 'understanding_the_cookbook_format'
+
 - title: 'Forms'
   url: 'forms'
   pages: 
