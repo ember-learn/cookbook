@@ -10,4 +10,6 @@ Here are all of the available recipes:
 ### Contributing to the Cookbook
 
 1. [Understanding the Cookbook Format](./contributing/understanding_the_cookbook_format)
-
+1. [Deciding if a Recipe is a Good Fit](./contributing/deciding_if_a_recipe_is_a_good_fit)
+1. [Suggesting a New Recipe](./contributing/suggesting_a_recipe)
+1. [Suggesting an Update to a Recipe](./contributing/suggesting_a_recipe_update)
