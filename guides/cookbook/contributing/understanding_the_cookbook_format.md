@@ -36,4 +36,4 @@ After reading this recipe you should now know what is a cookbook and what is the
 * [Coffeescript Cookbook](http://coffeescriptcookbook.com/). Both of these are great examples of the Cookbook
 format.
 
-_Tags: contributing_
+_Tags: contributing, getting started_

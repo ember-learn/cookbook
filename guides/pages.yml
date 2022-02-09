@@ -15,6 +15,12 @@
       pages:
         - title: 'Understanding the Cookbook Format'
           url: 'understanding_the_cookbook_format'
+        - title: "Deciding if a Recipe is a Good Fit"
+          url: 'deciding_if_a_recipe_is_a_good_fit'
+        - title: "Suggesting a Recipe"
+          url: 'suggesting_a_recipe'
+        - title: "Suggesting an Update to a Recipe"
+          url: 'suggesting_a_recipe_update'
 
 - title: 'Forms'
   url: 'forms'
